@@ -1,4 +1,3 @@
-# update the appointments
 # import modules
 from tkinter import *   ## notice lowercase 't' in tkinter here
 import tkinter as tk
